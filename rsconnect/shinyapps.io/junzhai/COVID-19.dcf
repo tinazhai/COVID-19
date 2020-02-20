@@ -1,0 +1,13 @@
+name: COVID-19
+title: COVID-19
+username:
+account: junzhai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1837008
+bundleId: 2813675
+url: https://junzhai.shinyapps.io/COVID-19/
+when: 1582162737.2583
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|Readme.txt
